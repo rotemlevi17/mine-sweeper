@@ -1,0 +1,29 @@
+td {
+    text-align: center;
+    border: 2px outset #777;
+    margin: 5px;
+    padding: 5px;
+}
+
+.game-container>div,
+.game-container>table {
+    margin: auto;
+    padding: auto;
+}
+
+.status-bar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.action-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.cell-count,
+.time {
+    width: 50px;
+    background-color: black;
+    color: rgb(214, 69, 69);
+}
