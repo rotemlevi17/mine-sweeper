@@ -1,6 +1,6 @@
 td {
     text-align: center;
-    border: 2px outset #777;
+    border: 2px outset rgb(119, 118, 118);
     margin: 5px;
     padding: 5px;
 }
@@ -26,4 +26,11 @@ td {
     width: 50px;
     background-color: black;
     color: rgb(214, 69, 69);
+    left: 10%;
+    height: 35px;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(64, 234, 247);
 }

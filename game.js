@@ -2,7 +2,7 @@
 
 var CELL_MINE = "&#10036;";
 var CELL_NONE = "&#11036;";
-var CELL_FLAG = "&#128204;";
+var CELL_FLAG = "&#127987;";
 var STATUS_SUCCESS = "&#128513;";
 var STATUS_FAILED = "&#128557;";
 var gBoard;
